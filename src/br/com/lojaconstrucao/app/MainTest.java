@@ -4,7 +4,7 @@ import br.com.lojaconstrucao.model.*;
 import br.com.lojaconstrucao.repository.*;
 import br.com.lojaconstrucao.service.*;
 
-public class MainTeste {
+public class MainTest {
     public static void main(String[] args) {
         ProdutoRepositoryMemoria produtoRepo = new ProdutoRepositoryMemoria();
         ClienteRepositoryMemoria clienteRepo = new ClienteRepositoryMemoria();
